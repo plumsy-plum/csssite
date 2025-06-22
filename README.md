@@ -1,2 +1,2 @@
 # csssite
-layout of site made entiry using flexbox
+layout of site made using flexbox
