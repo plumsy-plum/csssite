@@ -1,2 +1,2 @@
 # csssite
-site to test css flexbox
+layout of site made entiry using flexbox
